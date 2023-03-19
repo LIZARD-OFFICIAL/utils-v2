@@ -1,20 +1,3 @@
-/*
-Based on SheepTester's Utilities plugin.
-Tested on TurboWarp.
-Made by LSTV | License MIT
-Version: ---
-First update: 1/12/2021
-
-THIS IS A TEMPORARY LEGACY RELEASE! A new version will come out soon!
-*/
-
-/* ICONS: https://fontawesome.com/license */
-
-
-
-
-
-
 function Utilities() {
 	return class {
 		constructor(runtime) {
